@@ -3,169 +3,618 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/dev/empty-subitems/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/docs/installation/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/missing-images/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/docs/fragments/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/docs/events/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/docs/global-variables/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/unconfigured-images/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/docs/image-fallthrough/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/docs/styling/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/docs/development/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/docs/fragments-implementation/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/docs/multilingual/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/docs/deployment/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/blog/article-1/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/resource-fallthrough/fragment/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/fragments/404/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/fragments/buttons/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/alignments/dev-buttons/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/colors/dev-buttons/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/items/column-heights/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/fragments/config/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/contact/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/fragments/contact/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/alignments/dev-contact/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/colors/dev-contact/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/fragments/content/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/alignments/dev-content/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/colors/dev-content/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/fragments/copyright/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/colors/dev-copyright/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/fragments/editor/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/colors/dev-editor/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/fragments/embed/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/alignments/dev-embed/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/colors/dev-embed/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/fragments/faq/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/colors/dev-faq/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/fragments/footer/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/alignments/dev-footer/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/colors/dev-footer/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/fragments/graph/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/alignments/dev-graph/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/colors/dev-graph/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/fragments/header/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/alignments/dev-header/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/colors/dev-header/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/fragments/hero/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/alignments/dev-hero/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/colors/dev-hero/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/fragments/item/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/alignments/dev-item/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/colors/dev-item/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/fragments/items/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/alignments/dev-items/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/colors/dev-items/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/js-helpers/jq-helpers/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/fragments/list/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/alignments/dev-list/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/colors/dev-list/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/blog/article-2/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/js-helpers/general/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/fragments/member/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/alignments/dev-member/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/colors/dev-member/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/nav-multiple/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/fragments/nav/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/colors/dev-nav/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/list/page-1/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/list/section-1/page-1/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/list/section-2/page-1/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/list/page-2/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/list/section-1/page-2/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/list/section-2/page-2/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/fragments/portfolio/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/alignments/dev-portfolio/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/colors/dev-portfolio/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/fragments/pricing/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/alignments/dev-pricing/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/colors/dev-pricing/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/fragments/react-portal/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/colors/dev-react-portal/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/fragments/repositories_github/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/colors/dev-repositories_github/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/fragments/search/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/search/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/alignments/dev-search/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/colors/dev-search/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/sidebar-behavior/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/sticky/nav-sticky/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/fragments/stripe/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/alignments/dev-stripe/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/colors/dev-stripe/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/fragments/table/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/alignments/dev-table/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/colors/dev-table/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/toc/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/fragments/toc/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/colors/dev-toc/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/sticky/nav-not-sticky/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/blog/article-3/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/resource-fallthrough/page/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/image-sizes/horizontal/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/image-sizes/vertical/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/resource-fallthrough/global/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/blog/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/about/</loc>
-    <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/alignments/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/colors/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/docs/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/events/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/fragment-fallthrough/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/fragments/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/image-sizes/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/items/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/js-helpers/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/list/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/events/payment/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/resource-fallthrough/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/list/section-1/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/list/section-2/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev/sticky/</loc>
+    <lastmod>2020-12-22T04:06:35+01:00</lastmod>
   </url>
   
 </urlset>
